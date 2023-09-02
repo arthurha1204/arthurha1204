@@ -9,7 +9,6 @@ I am interested in studies in Information Security and software development, mor
 [![My Skills](https://skillicons.dev/icons?i=python,django,js,c,html,css,linux)](https://skillicons.dev)
 
 
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
