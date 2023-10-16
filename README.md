@@ -9,7 +9,7 @@
 
  There's some of technologies that i'm studying:
 
-<p align="center">
+<p justify-content="center">
   
  [![My Skills](https://skillicons.dev/icons?i=python,django,js,react,bootstrap,c,html,css,linux,git)](https://skillicons.dev)
 
