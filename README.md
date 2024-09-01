@@ -11,7 +11,7 @@
 
 <p justify-content="center">
   
- [![My Skills](https://skillicons.dev/icons?i=python,django,js,react,bootstrap,c,html,css,linux,git)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,js,angular,azure,docker)](https://skillicons.dev)
 
 </p>
 
