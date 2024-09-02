@@ -12,7 +12,6 @@
 <p justify-content="center">
   
  [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,js,angular,azure,docker)](https://skillicons.dev)
-<img align="center" alt="salesforce" height="30" width="40" src="https://img.icons8.com/color/48/000000/salesforce.png">
 
 </p>
 
