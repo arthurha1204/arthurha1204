@@ -1,0 +1,29 @@
+name: Atualizar stats do GitHub
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # todo dia às 06:00 UTC (~03:00 em Recife)
+  workflow_dispatch: {}    # permite rodar manualmente pela aba Actions
+
+permissions:
+  contents: write
+
+jobs:
+  update-svgs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Gerar gh-stats.svg / gh-activity.svg
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 gen_stats_svg.py arthurha1204 .
+
+      - name: Commitar se algo mudou
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add gh-stats.svg gh-activity.svg
+          git diff --cached --quiet || git commit -m "chore: atualiza stats do github [skip ci]"
+          git push
