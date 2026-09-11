@@ -1,52 +1,80 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=120&section=header"/>
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Arthur+Lima;A+Computer+Science+Student;From+Recife,Pernambuco,Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+```
+ █████╗ ██████╗ ████████╗██╗  ██╗██╗   ██╗██████╗     ██╗     ██╗███╗   ███╗ █████╗
+██╔══██╗██╔══██╗╚══██╔══╝██║  ██║██║   ██║██╔══██╗    ██║     ██║████╗ ████║██╔══██╗
+███████║██████╔╝   ██║   ███████║██║   ██║██████╔╝    ██║     ██║██╔████╔██║███████║
+██╔══██║██╔══██╗   ██║   ██╔══██║██║   ██║██╔══██╗    ██║     ██║██║╚██╔╝██║██╔══██║
+██║  ██║██║  ██║   ██║   ██║  ██║╚██████╔╝██║  ██║    ███████╗██║██║ ╚═╝ ██║██║  ██║
+╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝    ╚══════╝╚═╝╚═╝     ╚═╝╚═╝  ╚═╝
+```
 
- <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=arthurha1204&show_icons=true&count_private=true&hide_border=true&title_color=00ff00&icon_color=006400&text_color=c9d1d9&bg_color=0d1117" alt="Arthur Lima github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurha1204&layout=compact&hide_border=true&title_color=00ff00&text_color=006400&bg_color=0d1117" />
+**&gt; Engenheiro de Software // APIs REST do zero**
+Full-stack · back-end · qualidade de software · segurança &amp; automação — Recife, PE
+
+```
+arthur@arch:~$ ./portfolio --start
+carregando módulos [ ok ] · uptime: 21 anos · shell: /bin/insurgência
+```
+
+[ ↓ ver currículo ](https://github.com/arthurha1204/arthurha1204/blob/main/Arthur-Lima-Curriculo.pdf) · [ gh github ](https://github.com/arthurha1204) · [ in linkedin ](https://linkedin.com/in/arthurlimatech/) · [ yt youtube ](https://youtube.com/@ArthurLimaTech) · [ @ email ](mailto:arthurhs1204@gmail.com)
+
 </div>
 
- There's some of technologies that i'm studying:
+<br>
 
-<p justify-content="center">
-  
- [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,js,angular,azure,docker)](https://skillicons.dev)
+### `~$ cat manifesto.txt`
 
+> tecnologia só faz sentido quando é **crítica**, **acessível** e **socialmente justa**.
+> busco aplicar essa visão criando sistemas seguros, éticos e orientados a impacto real.
+> — não existe código neutro. commit &amp; resist. **(Ⓐ)**
+
+<br>
+
+### `~$ cat about.md`
+
+Engenheiro de software há pouco mais de 2 anos, 21 anos, Recife/PE. Antes de virar dev em tempo integral passei por suporte técnico, CRM e implementação — isso ajuda a pensar no sistema inteiro, não só no código que escrevo.
+
+- › atualmente em: **Soluttions** — full-stack (React · TypeScript · Node.js · PostgreSQL)
+- › cursando: Ciência da Computação (UNINTER) e Análise e Desenvolvimento de Sistemas (IFPE)
+- › fundador da [Comunidade IV](https://instagram.com/comunidade.iv), comunidade de tecnologia de Recife
+- › 1x Microsoft Azure Certified (AI-900)
+- › contato: arthurhs1204@gmail.com
+
+<br>
+
+### `~$ ls ./stack`
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,ts,js,nodejs,react,angular,spring,php,dotnet,postgres,mongodb,docker,git,linux,azure&theme=dark" alt="stack" />
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arthurha1204&bg_color=000000&color=4c9e4e&line=659e4c&point=0aff3b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br>
+
+### `~$ cat stats.log`
 
 <div align="center">
-  
-![GIF Animado](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZ2ZjM5dTNyejZkeDAwem4ybWs2OWk5bmF2aGxnaHIwdXp0cG5pOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/35ONGL2lEG8bL55iq8/giphy.gif)
-
+  <img width="49%" src="./gh-stats.svg" alt="github stats" />
 </div>
-  
 
+<div align="center">
+  <img width="100%" src="./gh-activity.svg" alt="contribution activity" />
+</div>
 
+<sub>gerado a partir da API do GitHub — atualiza rodando <code>gen_stats_svg.py</code></sub>
 
+<br>
 
+### `~$ ./contact --now`
 
+<p align="left">
+  <a href="https://linkedin.com/in/arthurlimatech/"><img src="https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=00ff5f" alt="linkedin" /></a>
+  <a href="https://youtube.com/@ArthurLimaTech"><img src="https://img.shields.io/badge/youtube-000000?style=for-the-badge&logo=youtube&logoColor=00ff5f" alt="youtube" /></a>
+  <a href="mailto:arthurhs1204@gmail.com"><img src="https://img.shields.io/badge/gmail-000000?style=for-the-badge&logo=gmail&logoColor=00ff5f" alt="email" /></a>
+</p>
 
+<br>
 
-<!--
-
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-░░░░░░░░░░██████████░░░░░░░░░░░░
-░░░░░░░░░░░░░░██░░░░░░░░░░░░░░░░
-░░░░░░░░██░░░░██░░░░██░░░░░░░░░░
-░░░░░░██████░░██░░██████░░░░░░░░
-░░██░░░░██░░░░██░░░░██░░░░██░░░░
-░░██░░░░░░░░░░██░░░░░░░░░░██░░░░
-░░██████████████████████████░░░░
-░░██░░░░░░░░░░██░░░░░░░░░░██░░░░
-░░██░░░░██░░░░██░░░░██░░░░██░░░░
-░░░░░░██████░░██░░██████░░░░░░░░
-░░░░░░░░██░░░░██░░░░██░░░░░░░░░░
-░░░░░░░░░░░░░░██░░░░░░░░░░░░░░░░
-░░░░░░░░░░██████████░░░░░░░░░░░░
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-
---->
+<div align="center">
+<sub>© 2026 Arthur Lima — Recife/PE · feito no terminal, servido em markdown</sub>
+</div>
